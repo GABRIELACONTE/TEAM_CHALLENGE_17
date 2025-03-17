@@ -1,0 +1,752 @@
+,work_year,experience_level,employment_type,salary,salary_in_usd,remote_ratio,company_size,experience_level_encoded,company_size_encoded,job_title_grouped,employee_residence_grouped,company_location_grouped,salary_currency_grouped
+2148,2022,SE,FT,168000,168000,100,M,1,2,Very High,Very High,Very High,Very High
+1044,2023,SE,FT,179975,179975,100,M,1,2,Very High,Very High,Very High,Very High
+3321,2022,SE,FT,144000,144000,100,M,1,2,High,High,High,High
+439,2023,SE,FT,222200,222200,0,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+3519,2021,EX,FT,230000,230000,50,L,3,3,Extremely High,Extremely High,Extremely High,Extremely High
+1849,2022,EN,FT,40000,40000,100,M,4,2,Low,Low,Low,Low
+93,2023,SE,FT,105000,105000,0,M,1,2,High,High,High,High
+1281,2023,EN,FT,100000,100000,50,M,4,2,High,High,High,High
+3581,2021,EN,FT,2200000,29751,50,L,4,3,Low,Low,Low,Low
+1272,2023,SE,FT,153090,153090,0,M,1,2,Very High,Very High,Very High,Very High
+3182,2022,MI,FT,50000,52533,0,M,2,2,Low,Low,Low,Low
+3345,2022,SE,FT,115000,115000,100,M,1,2,High,High,High,High
+490,2023,SE,FT,128000,128000,0,M,1,2,High,High,High,High
+3423,2022,MI,FT,2400000,30523,100,L,2,3,Low,Low,Low,Low
+544,2023,SE,FT,128500,128500,0,M,1,2,High,High,High,High
+676,2023,SE,FT,92000,92000,100,M,1,2,High,High,High,High
+1871,2022,EN,FT,160000,160000,0,M,4,2,Very High,Very High,Very High,Very High
+2606,2022,SE,FT,168000,168000,100,M,1,2,Very High,Very High,Very High,Very High
+3129,2022,SE,FT,210000,210000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1620,2023,SE,FT,153400,153400,0,M,1,2,Very High,Very High,Very High,Very High
+564,2023,MI,FT,140000,140000,0,M,2,2,High,High,High,High
+3333,2022,SE,FT,99050,99050,100,M,1,2,High,High,High,High
+1161,2023,SE,FT,259000,259000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3010,2022,SE,FT,200000,200000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+414,2023,SE,FT,134236,134236,0,M,1,2,High,High,High,High
+3262,2022,MI,FT,170000,170000,100,M,2,2,Very High,Very High,Very High,Very High
+1545,2023,SE,FT,200000,200000,100,S,1,1,Extremely High,Extremely High,Extremely High,Extremely High
+712,2023,SE,FT,120250,120250,100,M,1,2,High,High,High,High
+3649,2021,SE,FT,4000000,54094,50,L,1,3,Low,Low,Low,Low
+1915,2022,MI,FT,145000,145000,0,M,2,2,High,High,High,High
+120,2023,SE,FT,143860,143860,0,M,1,2,High,High,High,High
+802,2023,SE,FT,138000,138000,100,M,1,2,High,High,High,High
+3057,2022,SE,FT,216000,216000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3291,2022,SE,FT,61300,61300,100,M,1,2,Medium,Medium,Medium,Medium
+3706,2020,MI,FT,37000,42197,50,S,2,1,Low,Low,Low,Low
+2221,2022,MI,FT,140000,140000,0,M,2,2,High,High,High,High
+2578,2021,EN,FT,400000,5409,50,L,4,3,Low,Low,Low,Low
+3548,2020,EN,FT,10000,10000,100,S,4,1,Low,Low,Low,Low
+999,2023,SE,FT,180180,180180,0,M,1,2,Very High,Very High,Very High,Very High
+3019,2022,SE,FT,188100,188100,0,M,1,2,Very High,Very High,Very High,Very High
+2981,2022,EX,FT,150000,150000,100,M,3,2,Very High,Very High,Very High,Very High
+3621,2021,EN,FT,100000,100000,0,L,4,3,High,High,High,High
+1068,2023,MI,FT,130000,130000,0,M,2,2,High,High,High,High
+2651,2022,SE,FT,210000,161311,50,M,1,2,Very High,Very High,Very High,Very High
+1554,2023,SE,FT,205600,205600,0,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+220,2023,SE,FT,140000,140000,0,M,1,2,High,High,High,High
+3452,2022,SE,FT,100000,76814,100,M,1,2,Medium,Medium,Medium,Medium
+3030,2022,SE,FT,102100,102100,0,M,1,2,High,High,High,High
+605,2023,MI,FT,83500,83500,100,M,2,2,Medium,Medium,Medium,Medium
+3431,2022,SE,FT,65000,68293,100,S,1,1,Medium,Medium,Medium,Medium
+3689,2020,MI,FT,450000,6072,100,L,2,3,Low,Low,Low,Low
+2721,2022,EN,FT,50000,50000,100,M,4,2,Low,Low,Low,Low
+1105,2023,SE,FT,370000,370000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3116,2022,SE,FT,99450,99450,100,M,1,2,High,High,High,High
+1550,2023,SE,FT,257000,257000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3292,2022,SE,FT,160000,160000,0,L,1,3,Very High,Very High,Very High,Very High
+2412,2022,MI,FT,109000,109000,0,M,2,2,High,High,High,High
+315,2023,SE,FT,155000,155000,0,M,1,2,Very High,Very High,Very High,Very High
+3360,2022,SE,FT,230000,230000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1034,2023,EX,FT,131899,160288,0,M,3,2,Very High,Very High,Very High,Very High
+32,2023,SE,FT,90700,90700,0,M,1,2,High,High,High,High
+2466,2022,MI,FT,150000,150000,100,M,2,2,Very High,Very High,Very High,Very High
+1564,2023,SE,FT,38000,40777,0,M,1,2,Low,Low,Low,Low
+318,2023,SE,FT,165000,165000,0,M,1,2,Very High,Very High,Very High,Very High
+3611,2021,MI,FT,180000,180000,100,L,2,3,Very High,Very High,Very High,Very High
+1738,2021,SE,FT,4000000,54094,100,L,1,3,Low,Low,Low,Low
+842,2023,MI,FT,175000,175000,0,M,2,2,Very High,Very High,Very High,Very High
+495,2023,MI,FT,134000,134000,100,M,2,2,High,High,High,High
+387,2023,MI,FT,180000,180000,100,M,2,2,Very High,Very High,Very High,Very High
+1880,2022,SE,FT,140000,140000,0,M,1,2,High,High,High,High
+3318,2022,SE,FT,205300,205300,0,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+366,2023,MI,FT,75000,75000,0,M,2,2,Medium,Medium,Medium,Medium
+14,2023,EN,FT,130760,130760,0,L,4,3,High,High,High,High
+1897,2022,MI,FT,105000,105000,0,M,2,2,High,High,High,High
+2637,2022,MI,FT,98200,98200,100,L,2,3,High,High,High,High
+325,2023,MI,FT,280700,280700,100,M,2,2,Extremely High,Extremely High,Extremely High,Extremely High
+149,2023,SE,FT,195000,195000,0,M,1,2,Very High,Very High,Very High,Very High
+1833,2022,SE,FT,128000,128000,0,M,1,2,High,High,High,High
+196,2023,MI,FT,230000,230000,0,M,2,2,Extremely High,Extremely High,Extremely High,Extremely High
+2509,2022,SE,FT,92250,92250,0,M,1,2,High,High,High,High
+3145,2022,MI,FT,55000,67723,100,M,2,2,Medium,Medium,Medium,Medium
+2942,2022,SE,FT,140000,140000,0,M,1,2,High,High,High,High
+1211,2023,SE,FT,230000,230000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+670,2023,SE,FT,120000,120000,100,M,1,2,High,High,High,High
+2416,2022,MI,FT,85000,89306,50,L,2,3,Medium,Medium,Medium,Medium
+3628,2021,SE,FT,65720,77684,50,M,1,2,Medium,Medium,Medium,Medium
+2696,2022,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+1502,2023,SE,FT,220000,220000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3469,2022,MI,FT,115000,120402,0,L,2,3,High,High,High,High
+776,2021,MI,FT,150000,150000,100,M,2,2,Very High,Very High,Very High,Very High
+1315,2023,MI,FT,100000,121523,0,M,2,2,High,High,High,High
+3531,2021,SE,FT,153000,153000,100,L,1,3,Very High,Very High,Very High,Very High
+2284,2022,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+727,2023,MI,FT,65000,65000,100,M,2,2,Medium,Medium,Medium,Medium
+3004,2022,SE,FT,170000,170000,100,M,1,2,Very High,Very High,Very High,Very High
+2638,2022,SE,FT,115000,115000,100,M,1,2,High,High,High,High
+17,2023,SE,FT,170000,170000,0,M,1,2,Very High,Very High,Very High,Very High
+457,2023,EN,FT,92700,92700,100,M,4,2,High,High,High,High
+358,2023,SE,FT,304000,304000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3177,2022,SE,FT,170000,170000,100,M,1,2,Very High,Very High,Very High,Very High
+291,2023,SE,FT,145000,145000,100,M,1,2,High,High,High,High
+2956,2022,SE,FT,185800,185800,100,M,1,2,Very High,Very High,Very High,Very High
+1681,2023,SE,FT,110000,110000,100,M,1,2,High,High,High,High
+2430,2022,SE,FT,247500,247500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2378,2022,EN,PT,12000,12000,100,L,4,3,Low,Low,Low,Low
+810,2023,MI,FT,104500,104500,0,M,2,2,High,High,High,High
+3269,2022,SE,FT,80000,98506,0,M,1,2,High,High,High,High
+2794,2022,SE,FT,195400,195400,100,L,1,3,Very High,Very High,Very High,Very High
+817,2023,EN,FT,90000,90000,0,M,4,2,High,High,High,High
+2608,2022,SE,FT,123400,123400,0,M,1,2,High,High,High,High
+2700,2022,MI,FT,135000,135000,100,L,2,3,High,High,High,High
+1064,2023,SE,FT,165000,165000,100,M,1,2,Very High,Very High,Very High,Very High
+263,2023,SE,FT,148500,148500,0,M,1,2,High,High,High,High
+1609,2023,SE,FT,252000,252000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1295,2023,SE,FT,106020,106020,0,M,1,2,High,High,High,High
+3752,2020,EN,FT,105000,105000,100,S,4,1,High,High,High,High
+2309,2022,MI,FT,65000,65000,0,M,2,2,Medium,Medium,Medium,Medium
+2955,2022,MI,FT,52000,54634,100,S,2,1,Low,Low,Low,Low
+3111,2022,SE,FT,200000,200000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1612,2023,SE,FT,136000,136000,100,M,1,2,High,High,High,High
+1163,2023,MI,FT,90000,109371,0,M,2,2,High,High,High,High
+2222,2022,SE,FT,205000,205000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1862,2022,MI,FT,100000,100000,0,M,2,2,High,High,High,High
+948,2023,SE,FT,95000,95000,0,M,1,2,High,High,High,High
+256,2023,SE,FT,80000,80000,0,M,1,2,Medium,Medium,Medium,Medium
+109,2023,SE,FT,247300,247300,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3000,2022,SE,FT,200000,200000,100,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+1261,2023,SE,FT,220000,220000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1801,2023,MI,FT,38000,46178,100,M,2,2,Low,Low,Low,Low
+211,2023,SE,FT,247500,247500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+51,2023,SE,FT,183500,183500,100,M,1,2,Very High,Very High,Very High,Very High
+229,2023,EX,FT,269600,269600,0,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+3731,2020,MI,FT,55000,62726,50,S,2,1,Medium,Medium,Medium,Medium
+3672,2021,SE,FT,195000,195000,100,M,1,2,Very High,Very High,Very High,Very High
+818,2023,MI,FT,185000,185000,100,M,2,2,Very High,Very High,Very High,Very High
+2672,2022,SE,FT,198440,198440,100,M,1,2,Very High,Very High,Very High,Very High
+3748,2021,MI,FT,24000,28369,50,L,2,3,Low,Low,Low,Low
+3045,2022,SE,FT,63000,63000,0,M,1,2,Medium,Medium,Medium,Medium
+1905,2022,SE,FT,130000,130000,0,M,1,2,High,High,High,High
+270,2023,SE,FT,173000,173000,100,M,1,2,Very High,Very High,Very High,Very High
+429,2023,SE,FT,208450,208450,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2711,2022,EX,FT,116100,116100,100,M,3,2,High,High,High,High
+1684,2023,SE,FT,230000,230000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3326,2022,SE,FT,205300,205300,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2164,2022,SE,FT,169000,169000,0,M,1,2,Very High,Very High,Very High,Very High
+2574,2022,SE,FT,185900,185900,0,M,1,2,Very High,Very High,Very High,Very High
+655,2023,SE,FT,260000,260000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+52,2023,SE,FT,218500,218500,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2755,2022,SE,FT,99000,99000,0,M,1,2,High,High,High,High
+26,2023,SE,FT,156400,156400,0,M,1,2,Very High,Very High,Very High,Very High
+1406,2023,MI,FT,150000,150000,0,M,2,2,Very High,Very High,Very High,Very High
+3749,2021,SE,FT,165000,165000,100,L,1,3,Very High,Very High,Very High,Very High
+3579,2020,MI,FT,60000,76958,100,S,2,1,Medium,Medium,Medium,Medium
+1584,2023,SE,FT,102500,102500,100,M,1,2,High,High,High,High
+3441,2022,SE,FT,115000,115000,100,M,1,2,High,High,High,High
+2247,2022,SE,FT,200000,200000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1948,2022,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+3229,2022,MI,FT,112300,112300,100,L,2,3,High,High,High,High
+1741,2023,SE,FT,138750,138750,100,M,1,2,High,High,High,High
+839,2023,SE,FT,153400,153400,0,M,1,2,Very High,Very High,Very High,Very High
+2850,2022,MI,FT,136000,136000,100,M,2,2,High,High,High,High
+1134,2023,SE,FT,66000,66000,100,M,1,2,Medium,Medium,Medium,Medium
+1164,2023,MI,FT,60000,72914,0,M,2,2,Medium,Medium,Medium,Medium
+3023,2022,MI,FT,450000,5723,100,S,2,1,Low,Low,Low,Low
+1110,2023,EN,FT,55000,55000,0,M,4,2,Low,Low,Low,Low
+2833,2022,EX,FT,260000,260000,100,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+785,2023,SE,FT,239748,239748,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+179,2023,SE,FT,220000,220000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3477,2022,EN,FT,150000,150000,100,S,4,1,Very High,Very High,Very High,Very High
+2281,2022,SE,FT,299500,299500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2328,2022,SE,FT,116250,116250,100,M,1,2,High,High,High,High
+527,2023,MI,FT,135000,135000,50,L,2,3,High,High,High,High
+184,2023,MI,FT,70000,85066,100,M,2,2,Medium,Medium,Medium,Medium
+1114,2023,SE,FT,137500,137500,100,M,1,2,High,High,High,High
+3290,2022,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+2195,2022,MI,FT,150000,150000,0,M,2,2,Very High,Very High,Very High,Very High
+461,2023,SE,FT,258000,258000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2335,2021,MI,FL,45555,45555,50,M,2,2,Low,Low,Low,Low
+787,2023,SE,FT,163800,163800,0,M,1,2,Very High,Very High,Very High,Very High
+354,2023,SE,FT,185900,185900,0,M,1,2,Very High,Very High,Very High,Very High
+1962,2022,MI,FT,122500,122500,100,M,2,2,High,High,High,High
+2800,2022,EN,FT,633000,8050,100,M,4,2,Low,Low,Low,Low
+1204,2023,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+2037,2022,SE,FT,65000,68293,0,M,1,2,Medium,Medium,Medium,Medium
+33,2023,SE,FT,342810,342810,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1945,2022,SE,FT,150000,150000,0,M,1,2,Very High,Very High,Very High,Very High
+2282,2022,SE,FT,245100,245100,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1537,2023,SE,FT,190000,190000,0,M,1,2,Very High,Very High,Very High,Very High
+2429,2022,SE,FT,140000,140000,100,M,1,2,High,High,High,High
+321,2023,SE,FT,106000,106000,0,M,1,2,High,High,High,High
+1200,2023,SE,FT,142200,142200,0,M,1,2,High,High,High,High
+2288,2022,MI,FT,118000,118000,100,M,2,2,High,High,High,High
+1334,2023,SE,FT,102544,102544,0,M,1,2,High,High,High,High
+478,2023,EX,FT,353200,353200,0,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+2634,2022,SE,FT,185900,185900,0,M,1,2,Very High,Very High,Very High,Very High
+1602,2023,SE,FT,94000,94000,0,M,1,2,High,High,High,High
+2400,2022,SE,FT,192564,192564,100,M,1,2,Very High,Very High,Very High,Very High
+3022,2022,SE,FT,167100,167100,0,M,1,2,Very High,Very High,Very High,Very High
+2411,2022,MI,FT,160000,160000,0,M,2,2,Very High,Very High,Very High,Very High
+2902,2022,SE,FT,84958,104611,100,M,1,2,High,High,High,High
+2630,2022,SE,FT,225000,225000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2764,2022,SE,FT,207000,207000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3486,2022,EN,FT,100000,100000,50,L,4,3,High,High,High,High
+721,2023,SE,FT,143000,143000,100,M,1,2,High,High,High,High
+1080,2023,SE,FT,126000,126000,0,M,1,2,High,High,High,High
+134,2023,SE,FT,176100,176100,0,L,1,3,Very High,Very High,Very High,Very High
+1157,2023,SE,FT,155000,155000,0,M,1,2,Very High,Very High,Very High,Very High
+70,2023,SE,FT,115000,115000,0,M,1,2,High,High,High,High
+1336,2023,MI,FT,115360,115360,100,M,2,2,High,High,High,High
+567,2023,SE,FT,220000,220000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2314,2022,MI,FT,175000,175000,100,M,2,2,Very High,Very High,Very High,Very High
+3534,2021,EN,FT,60000,60000,100,S,4,1,Medium,Medium,Medium,Medium
+3407,2022,MI,FT,120000,120000,100,M,2,2,High,High,High,High
+450,2023,MI,FT,121500,121500,0,M,2,2,High,High,High,High
+2059,2022,SE,FT,95000,95000,0,M,1,2,High,High,High,High
+1159,2023,MI,FT,140000,140000,100,M,2,2,High,High,High,High
+351,2023,SE,FT,147000,147000,0,M,1,2,High,High,High,High
+1298,2023,SE,FT,241871,241871,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3682,2020,EN,FT,4450000,41689,100,S,4,1,Low,Low,Low,Low
+3146,2022,SE,FT,186000,186000,0,M,1,2,Very High,Very High,Very High,Very High
+3372,2022,SE,FT,129000,129000,0,M,1,2,High,High,High,High
+2258,2022,MI,FT,60000,73880,0,M,2,2,Medium,Medium,Medium,Medium
+1977,2022,SE,FT,210000,210000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+240,2023,SE,FT,152000,152000,0,M,1,2,Very High,Very High,Very High,Very High
+322,2023,EN,FT,55000,40663,0,L,4,3,Low,Low,Low,Low
+3074,2022,EN,FT,49500,52008,50,S,4,1,Low,Low,Low,Low
+3451,2022,SE,FT,100000,100000,100,M,1,2,High,High,High,High
+2196,2022,MI,FT,100000,100000,0,M,2,2,High,High,High,High
+1288,2023,SE,FT,385000,385000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3336,2022,SE,FT,112900,112900,100,M,1,2,High,High,High,High
+1670,2023,SE,FT,100000,100000,0,M,1,2,High,High,High,High
+170,2023,SE,FT,120000,120000,100,M,1,2,High,High,High,High
+432,2023,SE,FT,100000,100000,0,M,1,2,High,High,High,High
+2413,2022,MI,FT,79000,79000,0,M,2,2,Medium,Medium,Medium,Medium
+1360,2023,SE,FT,163800,163800,0,M,1,2,Very High,Very High,Very High,Very High
+2665,2022,EX,FT,164000,125976,50,L,3,3,High,High,High,High
+1377,2023,SE,FT,133300,133300,0,M,1,2,High,High,High,High
+1411,2023,SE,FT,70000,70000,0,M,1,2,Medium,Medium,Medium,Medium
+3629,2021,EN,FT,85000,85000,100,S,4,1,Medium,Medium,Medium,Medium
+188,2023,SE,FT,160000,160000,0,M,1,2,Very High,Very High,Very High,Very High
+2297,2022,SE,FT,131000,131000,0,M,1,2,High,High,High,High
+2174,2022,SE,FT,129400,129400,100,M,1,2,High,High,High,High
+12,2023,SE,FT,100000,100000,100,M,1,2,High,High,High,High
+2097,2022,SE,FT,170000,170000,100,M,1,2,Very High,Very High,Very High,Very High
+2350,2022,MI,FT,150000,150000,0,M,2,2,Very High,Very High,Very High,Very High
+2409,2022,SE,FT,156600,156600,100,M,1,2,Very High,Very High,Very High,Very High
+1052,2023,SE,FT,169000,169000,0,M,1,2,Very High,Very High,Very High,Very High
+402,2023,SE,FT,143860,143860,0,M,1,2,High,High,High,High
+2364,2022,SE,FT,169000,169000,0,M,1,2,Very High,Very High,Very High,Very High
+2465,2022,SE,FT,144000,144000,0,M,1,2,High,High,High,High
+3572,2020,MI,FT,106000,106000,100,L,2,3,High,High,High,High
+2510,2022,SE,FT,170000,170000,0,M,1,2,Very High,Very High,Very High,Very High
+2389,2022,SE,FT,100000,100000,0,M,1,2,High,High,High,High
+1084,2023,SE,FT,65000,65000,100,M,1,2,Medium,Medium,Medium,Medium
+438,2023,SE,FT,113750,113750,0,M,1,2,High,High,High,High
+1487,2023,SE,FT,183500,183500,100,M,1,2,Very High,Very High,Very High,Very High
+3088,2022,SE,FT,80000,80000,0,L,1,3,Medium,Medium,Medium,Medium
+2600,2022,SE,FT,185000,185000,100,M,1,2,Very High,Very High,Very High,Very High
+964,2023,SE,FT,45000,48289,0,M,1,2,Low,Low,Low,Low
+2283,2022,SE,FT,168000,168000,100,M,1,2,Very High,Very High,Very High,Very High
+2602,2022,SE,FT,185900,185900,0,M,1,2,Very High,Very High,Very High,Very High
+554,2023,EX,FT,100000,100000,0,M,3,2,High,High,High,High
+1657,2023,SE,FT,207000,207000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+927,2023,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+1786,2023,SE,FT,180560,180560,0,M,1,2,Very High,Very High,Very High,Very High
+2066,2022,SE,FT,125000,125000,0,M,1,2,High,High,High,High
+2775,2022,SE,FT,84000,84000,100,M,1,2,Medium,Medium,Medium,Medium
+309,2023,SE,FT,75000,75000,100,M,1,2,Medium,Medium,Medium,Medium
+2257,2022,MI,FT,85000,104663,0,M,2,2,High,High,High,High
+2004,2022,SE,FT,150000,150000,100,M,1,2,Very High,Very High,Very High,Very High
+2149,2021,EN,FT,20000,20000,0,M,4,2,Low,Low,Low,Low
+410,2023,SE,FT,154000,154000,0,M,1,2,Very High,Very High,Very High,Very High
+2102,2022,SE,FT,95000,95000,0,M,1,2,High,High,High,High
+2154,2022,SE,FT,175000,175000,0,M,1,2,Very High,Very High,Very High,Very High
+1233,2023,SE,FT,250000,250000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3449,2022,SE,FT,165000,165000,100,M,1,2,Very High,Very High,Very High,Very High
+3559,2020,EX,FT,70000,79833,50,L,3,3,Medium,Medium,Medium,Medium
+1116,2023,SE,FT,323300,323300,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3159,2022,SE,FT,112900,112900,100,M,1,2,High,High,High,High
+3011,2022,SE,FT,135000,135000,100,M,1,2,High,High,High,High
+298,2023,SE,FT,187000,187000,0,M,1,2,Very High,Very High,Very High,Very High
+2183,2022,MI,FT,160000,160000,0,M,2,2,Very High,Very High,Very High,Very High
+2252,2022,SE,FT,122600,122600,0,M,1,2,High,High,High,High
+1563,2023,SE,FT,48000,51508,0,M,1,2,Low,Low,Low,Low
+45,2023,SE,FT,221484,221484,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3279,2022,SE,FT,137141,137141,100,M,1,2,High,High,High,High
+183,2020,EX,FT,15000,15000,0,M,3,2,Low,Low,Low,Low
+1660,2023,SE,FT,135000,135000,0,M,1,2,High,High,High,High
+805,2023,SE,FT,115000,123405,0,L,1,3,High,High,High,High
+1123,2023,SE,FT,200000,200000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1268,2023,SE,FT,115000,115000,100,M,1,2,High,High,High,High
+139,2023,SE,FT,138784,138784,100,M,1,2,High,High,High,High
+2905,2022,SE,FT,141525,141525,100,M,1,2,High,High,High,High
+1973,2022,SE,FT,127000,127000,100,M,1,2,High,High,High,High
+266,2023,SE,FT,240500,240500,0,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+2470,2022,MI,FT,47000,57872,50,M,2,2,Low,Low,Low,Low
+3016,2022,SE,FT,50000,61566,0,M,1,2,Medium,Medium,Medium,Medium
+2589,2022,SE,FT,8000,8000,100,L,1,3,Low,Low,Low,Low
+1017,2023,SE,FT,128280,128280,0,M,1,2,High,High,High,High
+2216,2022,SE,FT,185900,185900,0,M,1,2,Very High,Very High,Very High,Very High
+1454,2023,SE,FT,160000,160000,100,M,1,2,Very High,Very High,Very High,Very High
+144,2023,SE,FT,138900,138900,0,M,1,2,High,High,High,High
+3244,2022,SE,FT,165220,165220,100,M,1,2,Very High,Very High,Very High,Very High
+2078,2022,MI,FT,100000,100000,100,M,2,2,High,High,High,High
+501,2023,SE,FT,225000,225000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1474,2023,SE,FT,153000,153000,100,M,1,2,Very High,Very High,Very High,Very High
+1677,2023,SE,FT,297300,297300,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+486,2023,SE,FT,200000,200000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1510,2023,SE,FT,160000,160000,100,M,1,2,Very High,Very High,Very High,Very High
+2844,2022,SE,FT,63000,63000,100,M,1,2,Medium,Medium,Medium,Medium
+1074,2023,SE,FT,90700,90700,0,M,1,2,High,High,High,High
+764,2023,SE,FT,178500,178500,100,M,1,2,Very High,Very High,Very High,Very High
+251,2023,EN,FT,65000,65000,0,M,4,2,Medium,Medium,Medium,Medium
+1896,2022,MI,FT,55000,67723,0,M,2,2,Medium,Medium,Medium,Medium
+682,2023,SE,FT,87000,87000,0,M,1,2,Medium,Medium,Medium,Medium
+990,2023,MI,FT,175000,175000,0,M,2,2,Very High,Very High,Very High,Very High
+1929,2022,SE,FT,100000,100000,0,M,1,2,High,High,High,High
+2620,2022,SE,FT,139000,139000,0,M,1,2,High,High,High,High
+279,2023,SE,FT,110000,110000,100,M,1,2,High,High,High,High
+1356,2023,SE,FT,226700,226700,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2659,2022,SE,FT,150000,150000,100,M,1,2,Very High,Very High,Very High,Very High
+299,2023,SE,FT,128000,128000,0,M,1,2,High,High,High,High
+3387,2022,SE,FT,25000,25000,100,M,1,2,Low,Low,Low,Low
+1457,2023,SE,FT,107250,107250,100,M,1,2,High,High,High,High
+3047,2022,SE,FT,131300,131300,100,L,1,3,High,High,High,High
+1322,2023,EN,FT,110000,110000,50,S,4,1,High,High,High,High
+1632,2023,SE,FT,203500,203500,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3294,2022,SE,FT,150000,150000,0,M,1,2,Very High,Very High,Very High,Very High
+3709,2021,MI,FT,76760,90734,50,L,2,3,High,High,High,High
+1830,2022,SE,FT,170000,170000,0,M,1,2,Very High,Very High,Very High,Very High
+879,2023,SE,FT,129000,129000,0,M,1,2,High,High,High,High
+2830,2022,SE,FT,122500,122500,100,M,1,2,High,High,High,High
+642,2023,SE,FT,113900,113900,100,M,1,2,High,High,High,High
+1662,2023,MI,FT,70000,70000,0,M,2,2,Medium,Medium,Medium,Medium
+3439,2022,MI,FT,78000,78000,100,M,2,2,Medium,Medium,Medium,Medium
+1764,2023,SE,FT,204500,204500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+393,2023,SE,FT,45000,48289,0,M,1,2,Low,Low,Low,Low
+58,2023,EX,FT,258750,258750,0,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+76,2023,SE,FT,280100,280100,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+465,2023,MI,FT,167500,167500,0,M,2,2,Very High,Very High,Very High,Very High
+3205,2022,MI,FT,70000,73546,100,M,2,2,Medium,Medium,Medium,Medium
+2009,2022,SE,FT,255000,255000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2240,2022,SE,FT,115000,115000,0,M,1,2,High,High,High,High
+2984,2022,MI,FT,110000,115573,0,M,2,2,High,High,High,High
+3508,2021,MI,FT,60000,82528,100,L,2,3,Medium,Medium,Medium,Medium
+2922,2022,MI,FT,90000,110820,0,M,2,2,High,High,High,High
+734,2023,SE,FT,106020,106020,0,M,1,2,High,High,High,High
+3198,2022,MI,FT,40000,42026,100,M,2,2,Low,Low,Low,Low
+2872,2022,EN,FT,500000,6359,100,L,4,3,Low,Low,Low,Low
+1918,2022,MI,FT,2500000,31795,100,M,2,2,Low,Low,Low,Low
+929,2023,MI,FT,120000,120000,0,M,2,2,High,High,High,High
+2330,2022,SE,FT,127000,127000,100,M,1,2,High,High,High,High
+2249,2022,SE,FT,45000,47280,0,M,1,2,Low,Low,Low,Low
+124,2023,SE,FT,214200,214200,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+314,2023,SE,FT,210000,210000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3230,2022,MI,FT,241000,241000,100,M,2,2,Extremely High,Extremely High,Extremely High,Extremely High
+305,2023,SE,FT,109000,109000,0,M,1,2,High,High,High,High
+1056,2023,SE,FT,230000,230000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2657,2022,SE,FT,40000,42026,0,M,1,2,Low,Low,Low,Low
+1947,2022,SE,FT,125000,125000,100,L,1,3,High,High,High,High
+657,2023,EX,FT,194500,194500,0,M,3,2,Very High,Very High,Very High,Very High
+3132,2022,SE,FT,110925,110925,100,M,1,2,High,High,High,High
+44,2023,SE,FT,270703,270703,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2970,2022,MI,FT,173000,173000,50,M,2,2,Very High,Very High,Very High,Very High
+1432,2023,MI,FT,150000,150000,100,M,2,2,Very High,Very High,Very High,Very High
+3285,2022,SE,FT,138600,138600,100,M,1,2,High,High,High,High
+415,2023,SE,FT,175000,175000,100,M,1,2,Very High,Very High,Very High,Very High
+2338,2022,SE,FT,45000,47280,0,M,1,2,Low,Low,Low,Low
+1728,2023,MI,FT,120000,120000,100,M,2,2,High,High,High,High
+30,2023,SE,FT,72000,72000,0,M,1,2,Medium,Medium,Medium,Medium
+443,2023,SE,FT,153600,153600,0,M,1,2,Very High,Very High,Very High,Very High
+203,2023,EX,FT,220000,220000,0,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+1419,2023,SE,FT,220000,220000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1023,2023,SE,FT,80000,85847,100,S,1,1,Medium,Medium,Medium,Medium
+3075,2022,MI,FL,2400000,30523,100,S,2,1,Low,Low,Low,Low
+63,2023,SE,FT,110500,110500,100,M,1,2,High,High,High,High
+1832,2022,SE,FT,145000,145000,0,M,1,2,High,High,High,High
+368,2023,MI,FT,84570,102772,0,M,2,2,High,High,High,High
+871,2023,SE,FT,109400,109400,0,M,1,2,High,High,High,High
+1718,2023,SE,FT,175308,175308,0,M,1,2,Very High,Very High,Very High,Very High
+463,2023,SE,FT,170000,170000,0,M,1,2,Very High,Very High,Very High,Very High
+156,2023,MI,FT,1700000,20670,100,L,2,3,Low,Low,Low,Low
+1228,2023,SE,FT,129000,129000,0,M,1,2,High,High,High,High
+1987,2022,SE,FT,198800,198800,0,M,1,2,Very High,Very High,Very High,Very High
+2912,2022,EN,FT,46000,46000,100,L,4,3,Low,Low,Low,Low
+192,2023,SE,FT,228000,228000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2552,2022,SE,FT,95000,95000,0,M,1,2,High,High,High,High
+2771,2022,SE,FT,141525,141525,100,M,1,2,High,High,High,High
+2725,2022,SE,FT,236900,236900,100,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+1926,2022,MI,FT,75000,92350,100,M,2,2,High,High,High,High
+1509,2023,SE,FT,129300,129300,0,M,1,2,High,High,High,High
+289,2023,SE,FT,135000,135000,0,M,1,2,High,High,High,High
+166,2023,SE,FT,150000,150000,0,M,1,2,Very High,Very High,Very High,Very High
+949,2023,SE,FT,85500,85500,0,M,1,2,Medium,Medium,Medium,Medium
+3076,2022,SE,FT,206699,206699,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+952,2023,SE,FT,163800,163800,0,M,1,2,Very High,Very High,Very High,Very High
+3343,2022,SE,FT,213120,213120,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1146,2023,SE,FT,170000,170000,0,M,1,2,Very High,Very High,Very High,Very High
+2963,2022,SE,FT,63000,63000,0,M,1,2,Medium,Medium,Medium,Medium
+1491,2023,SE,FT,125600,125600,100,M,1,2,High,High,High,High
+2969,2022,EN,PT,110000,110000,100,M,4,2,High,High,High,High
+3034,2022,EN,FT,80000,84053,100,L,4,3,Medium,Medium,Medium,Medium
+1512,2023,EN,FT,1060000,12888,50,S,4,1,Low,Low,Low,Low
+1565,2023,SE,FT,48000,51508,0,M,1,2,Low,Low,Low,Low
+1867,2022,EN,FT,40000,40000,100,M,4,2,Low,Low,Low,Low
+2319,2022,SE,FT,193750,193750,100,M,1,2,Very High,Very High,Very High,Very High
+693,2023,EN,FT,115100,115100,0,M,4,2,High,High,High,High
+194,2023,SE,FT,190000,190000,0,M,1,2,Very High,Very High,Very High,Very High
+1483,2023,MI,FT,79000,79000,0,M,2,2,Medium,Medium,Medium,Medium
+3257,2022,SE,FT,99000,99000,0,M,1,2,High,High,High,High
+2834,2021,EN,FT,15000,15000,100,L,4,3,Low,Low,Low,Low
+1078,2023,SE,FT,135000,135000,100,M,1,2,High,High,High,High
+29,2023,SE,FT,90000,90000,0,M,1,2,High,High,High,High
+1128,2023,SE,FT,180000,180000,100,M,1,2,Very High,Very High,Very High,Very High
+746,2023,EX,FT,116704,116704,100,M,3,2,High,High,High,High
+1886,2022,SE,FT,190000,190000,0,M,1,2,Very High,Very High,Very High,Very High
+3392,2022,SE,FT,105000,105000,100,M,1,2,High,High,High,High
+3117,2022,EN,FT,129000,129000,100,L,4,3,High,High,High,High
+2784,2022,MI,FT,150000,150000,100,L,2,3,Very High,Very High,Very High,Very High
+3084,2022,SE,FT,250000,250000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2727,2022,SE,FT,243225,243225,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2138,2022,MI,FT,75000,75000,100,M,2,2,Medium,Medium,Medium,Medium
+2943,2022,SE,FT,28500,29944,50,S,1,1,Low,Low,Low,Low
+2144,2022,SE,FT,120000,120000,100,M,1,2,High,High,High,High
+408,2023,SE,FT,181000,181000,0,M,1,2,Very High,Very High,Very High,Very High
+1941,2022,SE,FT,35000,36773,0,M,1,2,Low,Low,Low,Low
+2104,2022,SE,FT,152000,152000,0,M,1,2,Very High,Very High,Very High,Very High
+534,2023,SE,FT,129300,129300,0,M,1,2,High,High,High,High
+1407,2023,MI,FT,100000,100000,0,M,2,2,High,High,High,High
+807,2023,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+3324,2022,SE,FT,70500,70500,0,M,1,2,Medium,Medium,Medium,Medium
+3604,2021,SE,FT,130000,103691,100,L,1,3,High,High,High,High
+1366,2023,SE,FT,145000,145000,0,M,1,2,High,High,High,High
+1392,2023,SE,FT,153600,153600,0,M,1,2,Very High,Very High,Very High,Very High
+1991,2022,SE,FT,136000,136000,100,M,1,2,High,High,High,High
+2452,2022,SE,FT,160000,160000,0,M,1,2,Very High,Very High,Very High,Very High
+511,2023,SE,FT,145000,145000,0,M,1,2,High,High,High,High
+1844,2022,MI,FT,127500,127500,100,M,2,2,High,High,High,High
+80,2023,MI,FT,510000,65062,0,L,2,3,Medium,Medium,Medium,Medium
+761,2023,SE,FT,139500,139500,0,M,1,2,High,High,High,High
+295,2023,SE,FT,136000,136000,0,L,1,3,High,High,High,High
+3163,2020,EN,FT,43200,49268,0,S,4,1,Low,Low,Low,Low
+2366,2022,SE,FT,204500,204500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2345,2022,SE,FT,129300,129300,0,M,1,2,High,High,High,High
+2003,2022,SE,FT,215000,215000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1850,2022,EN,FT,40000,40000,100,M,4,2,Low,Low,Low,Low
+1551,2023,SE,FT,134000,134000,0,M,1,2,High,High,High,High
+2019,2022,SE,FT,120000,120000,100,M,1,2,High,High,High,High
+1263,2023,EX,FT,235000,235000,0,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+1108,2023,SE,FT,110000,110000,100,S,1,1,High,High,High,High
+969,2023,MI,FT,185000,185000,0,M,2,2,Very High,Very High,Very High,Very High
+3149,2022,SE,FT,90320,90320,0,M,1,2,High,High,High,High
+2968,2022,EN,FT,82000,82000,0,L,4,3,Medium,Medium,Medium,Medium
+976,2023,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+1652,2023,SE,FT,105200,105200,0,M,1,2,High,High,High,High
+1006,2023,SE,FT,122700,122700,0,M,1,2,High,High,High,High
+1569,2023,MI,FT,120000,120000,100,M,2,2,High,High,High,High
+3249,2022,SE,FT,132320,132320,0,M,1,2,High,High,High,High
+2607,2022,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+1338,2023,MI,FT,55000,59020,100,M,2,2,Low,Low,Low,Low
+3743,2020,MI,FT,130800,130800,100,M,2,2,High,High,High,High
+3203,2022,MI,FT,70000,86193,100,M,2,2,Medium,Medium,Medium,Medium
+3676,2021,SE,FT,225000,225000,100,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+1091,2023,MI,FT,150000,150000,100,M,2,2,Very High,Very High,Very High,Very High
+1220,2023,SE,FT,130000,130000,0,M,1,2,High,High,High,High
+2708,2022,SE,FT,250000,250000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1876,2022,EN,FT,85000,85000,0,M,4,2,Medium,Medium,Medium,Medium
+257,2023,SE,FT,70000,70000,0,M,1,2,Medium,Medium,Medium,Medium
+1402,2023,EN,FT,160000,160000,0,M,4,2,Very High,Very High,Very High,Very High
+3037,2022,SE,FT,63000,63000,0,M,1,2,Medium,Medium,Medium,Medium
+1117,2023,SE,FT,184700,184700,0,M,1,2,Very High,Very High,Very High,Very High
+2596,2022,MI,FT,90000,110820,0,M,2,2,High,High,High,High
+2215,2022,MI,FT,80000,80000,100,L,2,3,Medium,Medium,Medium,Medium
+3701,2021,SE,FT,50000,50000,100,S,1,1,Low,Low,Low,Low
+1971,2022,SE,FT,190000,190000,100,M,1,2,Very High,Very High,Very High,Very High
+3447,2022,SE,FT,85000,89306,50,L,1,3,Medium,Medium,Medium,Medium
+2687,2022,MI,FT,80000,84053,0,S,2,1,Medium,Medium,Medium,Medium
+538,2023,MI,FT,115092,115092,0,M,2,2,High,High,High,High
+411,2023,EX,FT,180000,180000,0,M,3,2,Very High,Very High,Very High,Very High
+238,2023,EX,FT,115000,115000,0,M,3,2,High,High,High,High
+2422,2022,EN,FT,45600,45600,100,M,4,2,Low,Low,Low,Low
+1765,2023,SE,FT,142200,142200,0,M,1,2,High,High,High,High
+3394,2022,SE,FT,170000,170000,100,M,1,2,Very High,Very High,Very High,Very High
+3151,2022,SE,FT,160000,160000,0,M,1,2,Very High,Very High,Very High,Very High
+864,2023,EN,FT,150000,150000,0,M,4,2,Very High,Very High,Very High,Very High
+3196,2022,MI,FT,40000,49253,100,M,2,2,Low,Low,Low,Low
+3553,2021,EN,FT,80000,80000,100,M,4,2,Medium,Medium,Medium,Medium
+705,2023,MI,FT,70000,85066,100,M,2,2,Medium,Medium,Medium,Medium
+1921,2022,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+2484,2022,SE,FT,130000,130000,0,M,1,2,High,High,High,High
+2241,2022,MI,FT,165000,165000,0,M,2,2,Very High,Very High,Very High,Very High
+174,2023,SE,FT,136000,136000,0,L,1,3,High,High,High,High
+2807,2022,EN,FT,50000,50000,100,L,4,3,Low,Low,Low,Low
+214,2023,SE,FT,176000,176000,0,M,1,2,Very High,Very High,Very High,Very High
+3328,2022,SE,FT,205300,205300,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2110,2022,SE,FT,220000,220000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+157,2023,MI,FT,38000,46178,0,M,2,2,Low,Low,Low,Low
+2754,2022,SE,FT,110000,110000,0,M,1,2,High,High,High,High
+912,2023,MI,FT,154000,154000,0,M,2,2,Very High,Very High,Very High,Very High
+551,2023,MI,FT,149600,149600,0,M,2,2,High,High,High,High
+152,2023,SE,FT,143200,143200,0,M,1,2,High,High,High,High
+1468,2023,MI,FT,206000,206000,0,M,2,2,Extremely High,Extremely High,Extremely High,Extremely High
+3041,2022,SE,FT,131300,131300,100,L,1,3,High,High,High,High
+1898,2022,MI,FT,70000,70000,0,M,2,2,Medium,Medium,Medium,Medium
+1846,2022,SE,FT,51000,51000,100,M,1,2,Low,Low,Low,Low
+102,2023,SE,FT,65000,65000,0,M,1,2,Medium,Medium,Medium,Medium
+2127,2022,SE,FT,70000,70000,0,M,1,2,Medium,Medium,Medium,Medium
+3036,2022,SE,FT,250000,250000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1891,2022,SE,FT,160000,160000,100,M,1,2,Very High,Very High,Very High,Very High
+239,2023,SE,FT,203500,203500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1511,2023,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+1829,2022,SE,FT,94500,94500,0,M,1,2,High,High,High,High
+736,2023,EN,FT,70000,70000,0,L,4,3,Medium,Medium,Medium,Medium
+2359,2022,SE,FT,375000,375000,50,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+3265,2022,SE,FT,84900,84900,100,M,1,2,Medium,Medium,Medium,Medium
+1025,2023,SE,FT,174000,174000,0,M,1,2,Very High,Very High,Very High,Very High
+2370,2022,SE,FT,185900,185900,0,M,1,2,Very High,Very High,Very High,Very High
+3228,2022,MI,FT,160000,160000,100,L,2,3,Very High,Very High,Very High,Very High
+599,2023,SE,FT,252000,252000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+332,2023,SE,FT,140000,140000,0,M,1,2,High,High,High,High
+2618,2022,SE,FT,150000,150000,0,M,1,2,Very High,Very High,Very High,Very High
+1222,2023,SE,FT,48000,51508,100,M,1,2,Low,Low,Low,Low
+803,2023,MI,FT,130000,130000,100,M,2,2,High,High,High,High
+1018,2023,SE,FT,106900,106900,0,M,1,2,High,High,High,High
+2287,2022,MI,FT,161000,161000,100,M,2,2,Very High,Very High,Very High,Very High
+3367,2022,MI,FT,130000,130000,100,M,2,2,High,High,High,High
+2132,2022,MI,FT,100000,100000,0,M,2,2,High,High,High,High
+3332,2022,SE,FT,116150,116150,100,M,1,2,High,High,High,High
+1805,2023,SE,FT,110000,110000,100,M,1,2,High,High,High,High
+1820,2023,EN,FT,135000,135000,0,M,4,2,High,High,High,High
+1861,2022,MI,FT,150000,150000,0,M,2,2,Very High,Very High,Very High,Very High
+1089,2023,SE,FT,197000,197000,0,M,1,2,Very High,Very High,Very High,Very High
+2046,2022,SE,FT,45000,47280,0,M,1,2,Low,Low,Low,Low
+1403,2023,EN,FT,100000,100000,0,M,4,2,High,High,High,High
+3713,2020,SE,FT,120000,120000,50,L,1,3,High,High,High,High
+594,2023,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+1556,2023,SE,FT,140000,140000,100,M,1,2,High,High,High,High
+893,2023,SE,FT,129000,129000,0,M,1,2,High,High,High,High
+573,2023,EN,FT,7000,7000,0,S,4,1,Low,Low,Low,Low
+1872,2022,EN,FT,135000,135000,0,M,4,2,High,High,High,High
+3525,2021,SE,FT,159500,127221,50,L,1,3,High,High,High,High
+2218,2022,SE,FT,135000,135000,0,M,1,2,High,High,High,High
+1626,2023,SE,FT,204500,204500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3637,2021,SE,FT,160000,160000,50,S,1,1,Very High,Very High,Very High,Very High
+1424,2023,SE,FT,94000,94000,0,M,1,2,High,High,High,High
+755,2023,SE,FT,160000,160000,100,M,1,2,Very High,Very High,Very High,Very High
+2189,2022,SE,FT,135000,135000,0,M,1,2,High,High,High,High
+811,2023,MI,FT,70000,70000,0,M,2,2,Medium,Medium,Medium,Medium
+3470,2022,SE,FT,177000,177000,100,L,1,3,Very High,Very High,Very High,Very High
+1187,2023,SE,FT,288000,288000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2587,2022,SE,FT,129300,129300,0,M,1,2,High,High,High,High
+346,2023,SE,FT,203000,203000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3054,2022,SE,FT,140000,140000,100,L,1,3,High,High,High,High
+1961,2022,SE,FT,149850,149850,0,M,1,2,High,High,High,High
+2801,2022,SE,FT,160000,160000,100,M,1,2,Very High,Very High,Very High,Very High
+3079,2022,MI,FT,54000,54000,0,M,2,2,Low,Low,Low,Low
+2451,2022,EN,FT,40000,49253,100,M,4,2,Low,Low,Low,Low
+1175,2023,SE,FT,100000,107309,100,M,1,2,High,High,High,High
+1398,2023,SE,FT,205000,205000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2226,2022,MI,FT,180000,180000,0,M,2,2,Very High,Very High,Very High,Very High
+1061,2023,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+178,2023,SE,FT,155000,155000,0,M,1,2,Very High,Very High,Very High,Very High
+985,2023,EN,FT,60000,64385,0,M,4,2,Medium,Medium,Medium,Medium
+3179,2022,SE,FT,189650,189650,0,M,1,2,Very High,Very High,Very High,Very High
+2276,2022,MI,FT,95000,95000,0,M,2,2,High,High,High,High
+3634,2021,MI,FT,250000,28016,100,M,2,2,Low,Low,Low,Low
+1960,2022,SE,FT,249500,249500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3349,2022,SE,FT,81666,81666,100,M,1,2,Medium,Medium,Medium,Medium
+2639,2022,SE,FT,95000,95000,100,M,1,2,High,High,High,High
+1213,2023,SE,FT,227000,227000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+173,2023,SE,FT,222200,222200,0,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+2873,2022,SE,FT,151800,151800,0,M,1,2,Very High,Very High,Very High,Very High
+331,2023,SE,FT,115000,115000,0,M,1,2,High,High,High,High
+3722,2021,MI,FT,130000,130000,50,L,2,3,High,High,High,High
+430,2023,SE,FT,170550,170550,100,M,1,2,Very High,Very High,Very High,Very High
+1586,2023,SE,FT,185000,185000,0,M,1,2,Very High,Very High,Very High,Very High
+1783,2023,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+2503,2022,SE,FT,130000,130000,0,M,1,2,High,High,High,High
+1488,2023,SE,FT,275300,275300,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+479,2023,EX,FT,249300,249300,0,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+1320,2023,MI,FT,100000,121523,0,M,2,2,High,High,High,High
+869,2023,MI,FT,75000,75000,0,M,2,2,Medium,Medium,Medium,Medium
+3144,2022,MI,FT,75000,92350,100,M,2,2,High,High,High,High
+1611,2022,MI,FT,110000,110000,100,L,2,3,High,High,High,High
+2476,2022,SE,FT,127000,127000,0,M,1,2,High,High,High,High
+2876,2022,SE,FT,140250,140250,100,M,1,2,High,High,High,High
+1593,2023,SE,FT,300000,300000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+324,2023,SE,FL,50000,50000,50,S,1,1,Low,Low,Low,Low
+468,2023,SE,FT,160000,160000,0,M,1,2,Very High,Very High,Very High,Very High
+561,2023,MI,FT,128000,128000,0,M,2,2,High,High,High,High
+2907,2022,SE,FT,141525,141525,0,M,1,2,High,High,High,High
+2339,2022,SE,FT,36000,37824,0,M,1,2,Low,Low,Low,Low
+1874,2022,SE,FT,216000,216000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+794,2023,SE,FT,245100,245100,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2592,2022,MI,FT,85000,85000,0,M,2,2,Medium,Medium,Medium,Medium
+61,2023,SE,FT,166000,166000,100,M,1,2,Very High,Very High,Very High,Very High
+1937,2022,SE,FT,135000,135000,0,M,1,2,High,High,High,High
+1022,2023,SE,FT,100000,107309,100,S,1,1,High,High,High,High
+254,2023,SE,FT,293000,293000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3300,2022,SE,FT,112900,112900,100,M,1,2,High,High,High,High
+1538,2023,SE,FT,165000,165000,0,M,1,2,Very High,Very High,Very High,Very High
+838,2023,MI,FT,60000,60000,100,M,2,2,Medium,Medium,Medium,Medium
+907,2023,SE,FT,140000,140000,0,M,1,2,High,High,High,High
+1727,2023,SE,FT,35000,37558,0,M,1,2,Low,Low,Low,Low
+221,2023,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+1744,2023,EN,FT,160000,160000,0,M,4,2,Very High,Very High,Very High,Very High
+889,2023,MI,FT,97750,97750,100,M,2,2,High,High,High,High
+88,2023,SE,FT,175000,175000,100,M,1,2,Very High,Very High,Very High,Very High
+809,2023,SE,FT,135000,135000,0,M,1,2,High,High,High,High
+2663,2022,SE,FT,200000,200000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+3077,2022,SE,FT,99100,99100,0,M,1,2,High,High,High,High
+1391,2023,MI,FT,100000,100000,0,M,2,2,High,High,High,High
+1350,2023,SE,FT,135000,135000,100,M,1,2,High,High,High,High
+436,2023,SE,FT,170000,170000,100,M,1,2,Very High,Very High,Very High,Very High
+3225,2022,SE,FT,60000,60000,100,L,1,3,Medium,Medium,Medium,Medium
+3378,2022,SE,FT,210000,210000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2424,2022,SE,FT,110000,110000,100,M,1,2,High,High,High,High
+3620,2021,MI,PT,59000,69741,100,L,2,3,Medium,Medium,Medium,Medium
+1345,2023,SE,FT,120250,120250,0,M,1,2,High,High,High,High
+3020,2022,SE,FT,139860,139860,0,M,1,2,High,High,High,High
+2234,2022,EN,FT,26000,27317,50,L,4,3,Low,Low,Low,Low
+1242,2023,SE,FT,81666,81666,100,M,1,2,Medium,Medium,Medium,Medium
+283,2023,SE,FT,127075,127075,100,M,1,2,High,High,High,High
+274,2023,EX,FT,175000,175000,0,M,3,2,Very High,Very High,Very High,Very High
+2212,2022,SE,FT,120000,120000,0,M,1,2,High,High,High,High
+621,2023,MI,FT,90000,90000,100,M,2,2,High,High,High,High
+1779,2023,SE,FT,113000,113000,0,M,1,2,High,High,High,High
+1422,2023,SE,FT,262500,262500,0,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+2550,2022,SE,FT,130000,130000,0,M,1,2,High,High,High,High
+2698,2022,MI,FT,65000,45050,50,L,2,3,Low,Low,Low,Low
+423,2023,SE,FT,146000,146000,0,M,1,2,High,High,High,High
+2861,2022,SE,FT,150000,150000,100,M,1,2,Very High,Very High,Very High,Very High
+903,2023,SE,FT,122000,122000,0,M,1,2,High,High,High,High
+506,2023,SE,FT,172200,172200,0,M,1,2,Very High,Very High,Very High,Very High
+1029,2023,SE,FT,109400,109400,0,M,1,2,High,High,High,High
+2487,2022,SE,FT,75000,92350,0,M,1,2,High,High,High,High
+2020,2022,MI,FT,75000,75000,100,M,2,2,Medium,Medium,Medium,Medium
+1587,2023,SE,FT,174500,174500,0,M,1,2,Very High,Very High,Very High,Very High
+881,2023,SE,FT,85500,85500,0,M,1,2,Medium,Medium,Medium,Medium
+549,2023,SE,FT,275300,275300,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+557,2023,SE,FT,153600,153600,0,M,1,2,Very High,Very High,Very High,Very High
+2071,2022,MI,FT,150000,150000,100,M,2,2,Very High,Very High,Very High,Very High
+602,2023,EN,FT,61800,61800,100,M,4,2,Medium,Medium,Medium,Medium
+442,2023,SE,FT,136000,136000,0,L,1,3,High,High,High,High
+1578,2023,MI,FT,100000,100000,100,M,2,2,High,High,High,High
+218,2023,SE,FT,100000,68318,100,M,1,2,Medium,Medium,Medium,Medium
+2535,2022,SE,FT,117000,117000,0,M,1,2,High,High,High,High
+3504,2021,MI,FT,100000,100000,100,L,2,3,High,High,High,High
+3340,2022,SE,FT,214000,214000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1278,2023,MI,FT,70000,85066,0,M,2,2,Medium,Medium,Medium,Medium
+3582,2021,SE,FT,276000,276000,0,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+3303,2022,SE,FT,132320,132320,100,M,1,2,High,High,High,High
+3754,2021,SE,FT,7000000,94665,50,L,1,3,High,High,High,High
+1003,2023,SE,FT,125000,125000,0,M,1,2,High,High,High,High
+1691,2023,SE,FT,110000,110000,0,M,1,2,High,High,High,High
+2664,2022,SE,FT,150000,150000,100,M,1,2,Very High,Very High,Very High,Very High
+965,2023,SE,FT,36000,38631,0,M,1,2,Low,Low,Low,Low
+862,2023,SE,FT,125000,125000,0,M,1,2,High,High,High,High
+2882,2022,SE,FT,141525,141525,100,M,1,2,High,High,High,High
+718,2023,SE,FT,141288,141288,0,M,1,2,High,High,High,High
+1616,2023,MI,FT,65000,78990,0,M,2,2,Medium,Medium,Medium,Medium
+2812,2022,SE,FT,190000,190000,100,M,1,2,Very High,Very High,Very High,Very High
+3546,2021,EN,FT,50000,59102,50,M,4,2,Low,Low,Low,Low
+1173,2023,MI,FT,125000,125000,0,M,2,2,High,High,High,High
+3363,2022,SE,FT,109280,109280,100,M,1,2,High,High,High,High
+578,2023,MI,FT,143000,143000,0,M,2,2,High,High,High,High
+2820,2022,SE,FT,190000,190000,100,M,1,2,Very High,Very High,Very High,Very High
+1425,2023,SE,FT,276000,276000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+0,2023,SE,FT,80000,85847,100,L,1,3,Medium,Medium,Medium,Medium
+3514,2020,EN,FT,70000,70000,100,L,4,3,Medium,Medium,Medium,Medium
+2316,2022,EN,FT,80000,80000,0,M,4,2,Medium,Medium,Medium,Medium
+3609,2020,SE,FT,260000,260000,0,S,1,1,Extremely High,Extremely High,Extremely High,Extremely High
+2270,2022,MI,FT,95000,95000,0,M,2,2,High,High,High,High
+1553,2023,SE,FT,36000,38631,0,M,1,2,Low,Low,Low,Low
+1042,2023,SE,FT,153600,153600,0,M,1,2,Very High,Very High,Very High,Very High
+247,2023,SE,FT,190000,190000,100,M,1,2,Very High,Very High,Very High,Very High
+2103,2022,SE,FT,203500,203500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+798,2023,EX,FT,106500,106500,0,M,3,2,High,High,High,High
+2246,2022,MI,FT,40000,49253,100,M,2,2,Low,Low,Low,Low
+857,2023,EN,FT,100000,100000,100,L,4,3,High,High,High,High
+650,2023,SE,FT,213120,213120,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1747,2023,SE,FT,200000,200000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1047,2023,SE,FT,90000,90000,0,M,1,2,High,High,High,High
+1752,2023,SE,FT,200000,200000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+175,2023,SE,FT,45000,54685,100,M,1,2,Low,Low,Low,Low
+278,2023,SE,FT,130000,130000,100,M,1,2,High,High,High,High
+3193,2022,EN,FT,28500,35093,100,L,4,3,Low,Low,Low,Low
+3643,2021,EX,FT,120000,141846,0,L,3,3,High,High,High,High
+1964,2022,SE,FT,249500,249500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2662,2022,MI,FT,108000,108000,50,L,2,3,High,High,High,High
+2380,2022,EN,FT,33000,33000,100,S,4,1,Low,Low,Low,Low
+1361,2023,SE,FT,126000,126000,0,M,1,2,High,High,High,High
+691,2023,SE,FT,147100,147100,0,M,1,2,High,High,High,High
+2119,2021,SE,FT,115000,115000,100,S,1,1,High,High,High,High
+416,2023,SE,FT,145000,145000,100,M,1,2,High,High,High,High
+3409,2022,SE,FT,65000,65000,100,S,1,1,Medium,Medium,Medium,Medium
+217,2023,EN,FT,1400000,17022,100,L,4,3,Low,Low,Low,Low
+2307,2022,SE,FT,100000,100000,0,M,1,2,High,High,High,High
+816,2023,EN,FT,125000,125000,0,M,4,2,High,High,High,High
+2885,2022,SE,FT,191475,191475,100,M,1,2,Very High,Very High,Very High,Very High
+2494,2022,SE,FT,225000,225000,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2157,2022,MI,FT,90000,90000,100,M,2,2,High,High,High,High
+2210,2022,SE,FT,95000,95000,0,M,1,2,High,High,High,High
+1289,2023,SE,FT,60000,60000,0,M,1,2,Medium,Medium,Medium,Medium
+937,2023,EN,FT,75000,75000,100,M,4,2,Medium,Medium,Medium,Medium
+449,2023,MI,FT,182500,182500,0,M,2,2,Very High,Very High,Very High,Very High
+1235,2023,EN,FT,85000,85000,100,M,4,2,Medium,Medium,Medium,Medium
+376,2023,SE,FT,120000,120000,100,M,1,2,High,High,High,High
+3698,2021,SE,FT,200000,200000,100,L,1,3,Extremely High,Extremely High,Extremely High,Extremely High
+1032,2023,SE,FT,60027,72946,0,M,1,2,Medium,Medium,Medium,Medium
+2372,2022,SE,FT,140700,140700,0,M,1,2,High,High,High,High
+433,2023,MI,FT,135000,135000,0,M,2,2,High,High,High,High
+752,2023,EN,FT,60000,60000,100,M,4,2,Medium,Medium,Medium,Medium
+371,2023,MI,FT,130000,130000,0,M,2,2,High,High,High,High
+3078,2022,MI,FT,200000,200000,0,M,2,2,Extremely High,Extremely High,Extremely High,Extremely High
+2251,2022,SE,FT,198800,198800,0,M,1,2,Very High,Very High,Very High,Very High
+3520,2021,EN,FT,125000,125000,100,S,4,1,High,High,High,High
+700,2023,MI,FT,100000,100000,0,M,2,2,High,High,High,High
+1330,2023,EX,FT,236000,236000,100,M,3,2,Extremely High,Extremely High,Extremely High,Extremely High
+644,2023,SE,FT,106800,106800,100,M,1,2,High,High,High,High
+1293,2023,SE,FT,135000,135000,100,M,1,2,High,High,High,High
+883,2023,SE,FT,121700,121700,0,M,1,2,High,High,High,High
+897,2023,MI,FT,82920,82920,100,M,2,2,Medium,Medium,Medium,Medium
+2266,2022,MI,FT,100000,100000,0,M,2,2,High,High,High,High
+2091,2022,SE,FT,178750,178750,0,M,1,2,Very High,Very High,Very High,Very High
+3096,2022,MI,FT,50000,61566,0,M,2,2,Medium,Medium,Medium,Medium
+3432,2021,MI,FT,109000,109000,50,L,2,3,High,High,High,High
+246,2023,SE,FT,134236,134236,0,M,1,2,High,High,High,High
+3565,2021,SE,FT,82500,113476,100,M,1,2,High,High,High,High
+505,2023,SE,FT,247500,247500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1613,2023,SE,FT,104000,104000,100,M,1,2,High,High,High,High
+744,2023,SE,FT,70000,70000,0,M,1,2,Medium,Medium,Medium,Medium
+3137,2022,SE,FT,131300,131300,100,L,1,3,High,High,High,High
+3232,2022,SE,FT,180000,180000,0,M,1,2,Very High,Very High,Very High,Very High
+3283,2022,SE,FT,50000,61566,0,M,1,2,Medium,Medium,Medium,Medium
+2678,2022,MI,FT,72000,75648,100,S,2,1,Medium,Medium,Medium,Medium
+108,2023,SE,FT,116450,116450,0,M,1,2,High,High,High,High
+3615,2021,SE,FT,256000,256000,100,S,1,1,Extremely High,Extremely High,Extremely High,Extremely High
+1558,2023,SE,FT,299500,299500,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2268,2022,EN,FT,135000,135000,0,M,4,2,High,High,High,High
+2798,2022,SE,FT,135000,135000,100,M,1,2,High,High,High,High
+3523,2020,MI,FT,41000,46759,50,L,2,3,Low,Low,Low,Low
+543,2023,SE,FT,208049,208049,0,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1284,2023,SE,FT,250000,250000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+1533,2023,MI,FT,150000,150000,0,M,2,2,Very High,Very High,Very High,Very High
+1446,2023,SE,FT,237000,237000,100,M,1,2,Extremely High,Extremely High,Extremely High,Extremely High
+2403,2022,SE,FT,105000,105000,0,M,1,2,High,High,High,High
+2897,2022,SE,FT,141525,141525,100,M,1,2,High,High,High,High
+612,2023,EN,FT,58000,58000,100,M,4,2,Low,Low,Low,Low
+2677,2022,SE,FT,35000,36773,0,M,1,2,Low,Low,Low,Low
+2014,2022,SE,FT,38000,39925,0,M,1,2,Low,Low,Low,Low
